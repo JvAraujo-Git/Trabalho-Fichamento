@@ -5,7 +5,9 @@ MARQUARDT, K.; WAGNER, I.; HAPPE, J. Engaging Girls in Computer Science: Do Sing
 ## 1. Fichamento de Conteúdo
 
 O terceiro artigo me chamou atenção pois o mesmo pegou uma questão que foi exposta no meu TCC.
-O mesmo apresenta um estudo de caso sobre as aulas interdisciplinares de gênero único. As mesmas concluíram que quando é removida a estereotipagem dos cursos de TI, fica mais fácil de trazer o publico feminino para a área.
+
+O mesmo apresenta um estudo de caso sobre as aulas interdisciplinares de gênero único. 
+As mesmas concluíram que quando é removida a estereotipagem dos cursos de TI, fica mais fácil de trazer o publico feminino para a área.
 
 ## 2. Fichamento Bibliográfico
 
